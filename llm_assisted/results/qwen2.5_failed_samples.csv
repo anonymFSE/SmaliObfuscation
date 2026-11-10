@@ -1,0 +1,15 @@
+sha256,family,stage_failed,error_message,timestamp
+4b469f0672a633f0cd75973169bded41c333aa5e7fed2818612dd02032d6c788,Joker,validation,corrupt APK,2026-06-02T19:07:26.314740
+208e85cc66f2ee482dce1c6ee5f1ea45592e9fc9980c1b04b5157975d127dcf1,Alien,validation,corrupt APK,2026-06-02T19:40:22.445236
+53cb4fe929ba6e2f55eee235546a277c9929ff01bfdaa290e0e49b434dabd5c6,SpyNote,rebuild,rebuild returned None,2026-06-13T16:50:04.968052
+53cd4074b7e15b6cdc3ab03167bc6e320d059db222d4e5a28072cf223747942f,SpyNote,decompile,decompile returned None,2026-06-13T16:50:05.408545
+819339e9438b9e4eac5129a90e037aa42f83dd6902739ab3e6b6c15caae32103,SpyNote,evasion,no techniques applied,2026-06-13T16:50:05.638321
+32009baede4c36b8092ca9d10e2d677773f88af79dafc9480dc8494b566cbfb5,SpyNote,evasion,no techniques applied,2026-06-13T16:50:05.908345
+0d2385baf5a479d0bf417013fc6c0dbecb54b132c3ebb7d2128075214029cb28,SpyNote,evasion,no techniques applied,2026-06-13T16:50:06.198649
+1052e26e10483fcccd9a80527f975d7804ce4a99b6ab3cf57d898cc465ba0e21,GoldDigger,rebuild,rebuild returned None,2026-06-07T01:09:14.496385
+927720e4e2b6d946b3e228257c4e41c6e9e5ee147ab21ec3ebc94f0f15382828,Cerberus,evasion,no techniques applied,2026-06-13T09:34:26.573684
+00ec32ae4b2f32c99a8053fb0b7a5dacdfdad2fa1981f058919cc484b4a5924c,Cerberus,evasion,no techniques applied,2026-06-13T10:45:55.500350
+5f113715e47ddce3f72f9ff69b1aa07ee09225eaf6b501a7b106fa893779a931,Hydra,decompile,decompile returned None,2026-06-13T09:34:26.788337
+bb5c794018995f39d831214c479d96dad7d51bf34471b0613ea69489e5fc4fd5,Hydra,decompile,decompile returned None,2026-06-13T10:45:56.149739
+ce480d22d9936bc469d46abbcd51bdb74dc201216c29a97ba21c40e0299335bc,Hydra,decompile,decompile returned None,2026-06-13T10:45:56.251851
+
