@@ -101,7 +101,7 @@ String Obfuscation operates on one method per LLM request.
 
 String constants are replaced with Base64-encoded values followed by a decoding call. The decoded value is stored back in the original register.
 
-### Example Used in the Experimental Documentation
+### Example
 
 ```smali
 # Before:
@@ -139,8 +139,7 @@ Dead Code Injection operates on one method per LLM request.
 
 Insert unreachable instructions while preserving the original execution flow. Injected dead blocks are skipped through a `goto`. Added labels use the `:lbl_dead_` and `:lbl_real_` prefixes.
 
-### Example Used in the Experimental Documentation
-
+### Example 
 ```smali
 invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
 goto :lbl_real_0
